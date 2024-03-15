@@ -32,7 +32,7 @@
 
 <p>
 
-This script generates addresses for the mainnet. Do not use it unless you know how to import a wallet from a private key. This is only for educational purpose and is not the most secure way to handle wallets. Please look into BIP32 implementation of wallets which are much more secure.
+This script generates addresses for the mainnet. Do not use it unless you know how to import a wallet from a private key. This is only for educational purpose and is not the most secure way to handle wallets. Please look into BIP32 implementation https://docs.rs/bip32/latest/bip32/ of wallets which are much more secure.
 P.S Do not share the private key with anyone. 
 
 </p>
